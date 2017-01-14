@@ -1,0 +1,1 @@
+Add the Esri.FileGDBAPI.dll and the x64 version of FileGDBAPI.dll in here.
